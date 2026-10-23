@@ -88,7 +88,7 @@ PRODUCT_PACKAGES_DEBUG += \
     bootctl
 
 # Charger
-WITH_LINEAGE_CHARGER := false
+WITH_LMODROID_CHARGER := false
 
 # Display
 PRODUCT_PACKAGES += \
